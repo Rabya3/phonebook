@@ -1,0 +1,332 @@
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\ApplicationInsights.config
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\csc.exe
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\vbc.exe
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\VBCSCompiler.exe
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Phone.dll.config
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Phone.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Phone.pdb
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Antlr3.Runtime.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\EntityFramework.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\EntityFramework.SqlServer.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.Web.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.ApplicationInsights.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Newtonsoft.Json.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Owin.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Helpers.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Mvc.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Optimization.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Razor.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.Deployment.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.Razor.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\WebGrease.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.Web.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.ApplicationInsights.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Helpers.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Mvc.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Optimization.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.Razor.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.Deployment.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\System.Web.WebPages.Razor.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Antlr3.Runtime.pdb
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Newtonsoft.Json.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\EntityFramework.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\EntityFramework.SqlServer.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\obj\Debug\Phone.dll
+c:\users\ayesha\documents\visual studio 2015\Projects\Phone\Phone\obj\Debug\Phone.pdb
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\ApplicationInsights.config
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\csc.exe
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\vbc.exe
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\VBCSCompiler.exe
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Phone.dll.config
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Phone.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Phone.pdb
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Antlr3.Runtime.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\EntityFramework.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\EntityFramework.SqlServer.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.Web.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Newtonsoft.Json.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Owin.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Helpers.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Mvc.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Optimization.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Razor.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Razor.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\WebGrease.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.Web.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Helpers.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Mvc.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Optimization.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.Razor.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Razor.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Antlr3.Runtime.pdb
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Newtonsoft.Json.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\EntityFramework.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\EntityFramework.SqlServer.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\obj\Debug\Phone.dll
+C:\Users\de\Desktop\Phone-Book\Phone\Phone\obj\Debug\Phone.pdb
+H:\Phone-Book\Phone\Phone\bin\ApplicationInsights.config
+H:\Phone-Book\Phone\Phone\bin\roslyn\csc.exe
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Phone-Book\Phone\Phone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Phone-Book\Phone\Phone\bin\roslyn\System.Collections.Immutable.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\System.Reflection.Metadata.dll
+H:\Phone-Book\Phone\Phone\bin\roslyn\vbc.exe
+H:\Phone-Book\Phone\Phone\bin\roslyn\VBCSCompiler.exe
+H:\Phone-Book\Phone\Phone\bin\roslyn\VBCSCompiler.exe.config
+H:\Phone-Book\Phone\Phone\bin\Phone.dll.config
+H:\Phone-Book\Phone\Phone\bin\Phone.dll
+H:\Phone-Book\Phone\Phone\bin\Phone.pdb
+H:\Phone-Book\Phone\Phone\bin\Antlr3.Runtime.dll
+H:\Phone-Book\Phone\Phone\bin\EntityFramework.dll
+H:\Phone-Book\Phone\Phone\bin\EntityFramework.SqlServer.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.DependencyCollector.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.Web.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.WindowsServer.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.ApplicationInsights.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Google.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Web.Infrastructure.dll
+H:\Phone-Book\Phone\Phone\bin\Newtonsoft.Json.dll
+H:\Phone-Book\Phone\Phone\bin\Owin.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.Helpers.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.Mvc.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.Optimization.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.Razor.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Deployment.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.dll
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Razor.dll
+H:\Phone-Book\Phone\Phone\bin\WebGrease.dll
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.DependencyCollector.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.Web.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AI.WindowsServer.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.ApplicationInsights.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.Helpers.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.Mvc.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.Optimization.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.Razor.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Deployment.xml
+H:\Phone-Book\Phone\Phone\bin\System.Web.WebPages.Razor.xml
+H:\Phone-Book\Phone\Phone\bin\Antlr3.Runtime.pdb
+H:\Phone-Book\Phone\Phone\bin\Newtonsoft.Json.xml
+H:\Phone-Book\Phone\Phone\bin\EntityFramework.xml
+H:\Phone-Book\Phone\Phone\bin\EntityFramework.SqlServer.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Google.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Phone-Book\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Phone-Book\Phone\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+H:\Phone-Book\Phone\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+H:\Phone-Book\Phone\Phone\obj\Debug\Phone.csproj.CopyComplete
+H:\Phone-Book\Phone\Phone\obj\Debug\Phone.dll
+H:\Phone-Book\Phone\Phone\obj\Debug\Phone.pdb
+C:\Users\Aimen\Desktop\Phone\Phone\bin\ApplicationInsights.config
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\csc.exe
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\vbc.exe
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aimen\Desktop\Phone\Phone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Phone.dll.config
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Phone.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Phone.pdb
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Antlr3.Runtime.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\EntityFramework.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\EntityFramework.SqlServer.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.Web.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Newtonsoft.Json.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Owin.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Helpers.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Mvc.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Optimization.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Razor.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\WebGrease.dll
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.Web.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Helpers.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Mvc.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Optimization.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.Razor.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Antlr3.Runtime.pdb
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Newtonsoft.Json.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\EntityFramework.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\EntityFramework.SqlServer.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aimen\Desktop\Phone\Phone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aimen\Desktop\Phone\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\Aimen\Desktop\Phone\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Aimen\Desktop\Phone\Phone\obj\Debug\Phone.csproj.CopyComplete
+C:\Users\Aimen\Desktop\Phone\Phone\obj\Debug\Phone.dll
+C:\Users\Aimen\Desktop\Phone\Phone\obj\Debug\Phone.pdb
